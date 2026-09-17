@@ -1,1 +1,1 @@
-[Diagrama De Flujo](./diagramas/diagramaFlujo.svg)
+![Diagrama De Flujo](./diagramas/diagramaFlujo.svg)
