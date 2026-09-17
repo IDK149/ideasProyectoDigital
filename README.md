@@ -17,4 +17,4 @@ Por otra parte, el protocolo PS2 hace uso únicamente de dos cables de transfere
 
 Con este objetivo se plantea el siguiente diagrama simplificado de conexiones del adaptador el cual podría estar sujeto a cambios:
 
-![Pcb_idea](./assets/schematic.pdf)
+![Pcb_idea](./assets/schematic.svg)
