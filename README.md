@@ -16,3 +16,5 @@ Por otra parte, el protocolo PS2 hace uso únicamente de dos cables de transfere
 ![PS2_pins](https://6502.co.uk/wp-content/uploads/2022/10/PS2-Pinout.jpg)
 
 Con este objetivo se plantea el siguiente diagrama simplificado de conexiones del adaptador el cual podría estar sujeto a cambios:
+
+![Pcb_idea](./assets/schematic.pdf)
